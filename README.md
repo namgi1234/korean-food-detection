@@ -24,3 +24,5 @@ Then, modify the detect.py code and run the command below.
 ```bash
 python3 detect.py --weights best.pt --img 640 --conf 0.5 --source 0
 ```
+
+We based our code on this guy's code.[github](https://github.com/heasun0111/KoreanFood_recognition_using_yolov5)https://github.com/heasun0111/KoreanFood_recognition_using_yolov5)
