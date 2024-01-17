@@ -5,7 +5,7 @@
 This project is our school's project to detect the Korean diet.
 First, it recognize your diet. Next, your diet is scored and the information is emailed to you.
 
-## befor start
+## before start
 
 This project is based on yolov5. Therefore, you must install yolov5 before starting.
 
